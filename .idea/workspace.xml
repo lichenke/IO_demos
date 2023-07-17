@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b87b9074-870f-461b-ad5f-f5fff7beeb2d" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$USER_HOME$/.sdkman/candidates/maven/3.8.8" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2QPRkmF9OKJ4l2wUS1zfK1G8MlL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "zulu-17",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.26206896",
+    "settings.editor.selected.configurable": "MavenSettings",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.babyblue.networkio" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.FileDemo">
+    <configuration name="FileDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.babyblue.FileDemo" />
+      <module name="IO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.babyblue.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FourInputWay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.babyblue.july17.FourInputWay" />
+      <module name="IO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.babyblue.july17.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FourInputWay.fromKeyboard" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="IO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.babyblue.july17.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.babyblue.july17" />
+      <option name="MAIN_CLASS_NAME" value="com.babyblue.july17.FourInputWay" />
+      <option name="METHOD_NAME" value="fromKeyboard" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FourInputWay.fromMemory" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="IO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.babyblue.july17.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.babyblue.july17" />
+      <option name="MAIN_CLASS_NAME" value="com.babyblue.july17.FourInputWay" />
+      <option name="METHOD_NAME" value="fromMemory" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FourInputWay.fromkeyb" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="IO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.babyblue.july17.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.babyblue.july17" />
+      <option name="MAIN_CLASS_NAME" value="com.babyblue.july17.FourInputWay" />
+      <option name="METHOD_NAME" value="fromkeyb" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.FileDemo" />
+        <item itemvalue="Application.FourInputWay" />
+        <item itemvalue="JUnit.FourInputWay.fromkeyb" />
+        <item itemvalue="JUnit.FourInputWay.fromKeyboard" />
+        <item itemvalue="JUnit.FourInputWay.fromMemory" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b87b9074-870f-461b-ad5f-f5fff7beeb2d" name="Changes" comment="" />
+      <created>1685253378680</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1685253378680</updated>
+      <workItem from="1685253379678" duration="19582000" />
+      <workItem from="1685636616706" duration="43000" />
+      <workItem from="1689598426786" duration="6568000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

@@ -7,10 +7,12 @@ import java.nio.file.Paths;
 
 public class ZeroCopyClient {
 
+    static final String source = "/Users/lichenke/Desktop/代码.zip";
+
     public static void main(String[] args) {
         try (SocketChannel socketChannel = SocketChannel.open()) {
             socketChannel.connect(new InetSocketAddress("localhost", 8080));
-            try (FileChannel fileChannel = FileChannel.open(Paths.get("/Users/lichenke/Desktop/代码.zip"))) {
+            try (FileChannel fileChannel = FileChannel.open(Paths.get(source))) {
                 int pos = 0;
                 long size = fileChannel.size();
                 while (size > 0) {
@@ -21,6 +23,7 @@ public class ZeroCopyClient {
                     }
                 }
             }
+            System.out.println("File sent");
         } catch (Exception e) {
             throw new RuntimeException(e);
         }
